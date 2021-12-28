@@ -1,9 +1,6 @@
 
-//char* WLAN_SSID = "no_angel_2G";
-//char* WLAN_PASS = "O8o9237579";
-
-char* WLAN_SSID = "AWB GROUP-2.4GHz";
-char* WLAN_PASS = "awb12345678";
+char* WLAN_SSID = "";
+char* WLAN_PASS = "";
 
 //==================================================================
 //                           Wifi Connection
